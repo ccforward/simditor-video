@@ -13,6 +13,9 @@ simditor-video
 <script src="js/simditor-video.js"></script>
 ```
 
+### demo
+[simditor-video](simditor.sinaapp.com)
+
 ### 配置
 
 ```javascript
