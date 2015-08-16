@@ -14,7 +14,7 @@ simditor-video
 ```
 
 ### demo
-[simditor-video](simditor.sinaapp.com)
+[simditor-video](http://simditor.sinaapp.com)
 
 ### 配置
 
