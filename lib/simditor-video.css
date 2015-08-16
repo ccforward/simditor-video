@@ -1,0 +1,9 @@
+.simditor .simditor-body video{
+    width: 100px;
+    height: 100px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+}
+.simditor .simditor-body iframe {
+  border: 0 none;
+}

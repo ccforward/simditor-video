@@ -1,0 +1,15 @@
+{
+  "name": "simditor-video",
+  "version": "0.0.2",
+  "homepage": "https://github.com/ccforward/simditor-video",
+  "keywords": [
+    "simditor",
+    "video"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-coffee": "^0.11.1",
+    "grunt-contrib-sass": "0.x"
+  }
+}
