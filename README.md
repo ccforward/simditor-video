@@ -1,9 +1,15 @@
 simditor-video
+
 ==============
 
 [Simditor](http://simditor.tower.im/)扩展，给编辑器添加视频
 
-当前版本 0.0.2
+当前版本 0.0.3
+
+### github & NPM
+[github](https://github.com/ccforward/simditor-video)
+
+[npm](https://www.npmjs.com/package/simditor-video)
 
 
 ### 如何使用
